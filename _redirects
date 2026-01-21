@@ -1,3 +1,0 @@
-/api/* /.netlify/functions/comment/:splat  200
-/ui/* /.netlify/functions/comment/:splat  200
-/       /.netlify/functions/comment/ui/     200
